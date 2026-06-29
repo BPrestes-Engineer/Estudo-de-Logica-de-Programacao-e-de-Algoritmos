@@ -25,7 +25,7 @@ Inicio
       Ate numero = 0
       
       Escreval("Muito Bem!!! Você digitou o número ZERO ^U^")
-      Escreval("E o maior número digitado por você foi", maior, "!")
+      Escreval("E o maior número digitado por você foi:", maior, "!")
       escreval
       
 Fimalgoritmo
