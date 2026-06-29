@@ -1,6 +1,6 @@
 Algoritmo "Funcao Para de ate faca sequencia numerica ate 0"
 
-// Descrição   : Imprimi uma sequência númerica de 0 até o número escolhido pelo usuário.
+// DescriÃ§Ã£o   : Imprime uma sequÃªncia nÃºmerica de 0 atÃ© o nÃºmero escolhido pelo usuÃ¡rio.
 // Autor(a)    : BrunoP
 // Data atual  : 28/06/2026
 
@@ -10,7 +10,7 @@ Var
 
 Inicio
 
-      Escreval("Digite um número: ")
+      Escreval("Digite um nÃºmero: ")
       Leia(numero)
       escreval
       
