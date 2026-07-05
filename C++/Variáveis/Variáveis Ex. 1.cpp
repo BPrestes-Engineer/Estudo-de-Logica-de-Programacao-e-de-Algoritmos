@@ -14,9 +14,13 @@ int main (){
 	double numerosQuebrados = 9.99;
 	char letra = 'a';
 	string textos = "Aluno Bruno";
-	bool verdadeiroFalso = false;
+	bool verdadeiroFalso = true;
 	
-	cout << "\n " <<  numerosInteiros << "\n";
+	cout << "\n " << numerosInteiros << "\n";
+	cout << "\n " << numerosQuebrados << "\n";
+	cout << "\n " << letra << "\n";
+	cout << "\n " << textos << "\n";
+	cout << "\n " << verdadeiroFalso << "\n";
 	
 	return 0;
 	
