@@ -25,7 +25,7 @@ Todo o programa em C++ tem uma e somente uma função principal que é a função "MA
 	
 	cout << "\nOlá, Mundo!!! ^U^ \n" << endl;
 
-	cout << "Hello, WORLD!!! \n I'm BPrestes-Engineer (^^)" << endl;
+	cout << "Hello, WORLD!!! \nI'm BPrestes-Engineer (^^)" << endl;
 
 	//A função main diz que retornar um inteiro, então colocamos o 0 como um tipo de retorno
 	;return 0;	
