@@ -20,8 +20,9 @@ int main (){
 	cout << "\n " << numerosQuebrados << "\n";
 	cout << "\n " << letra << "\n";
 	cout << "\n " << textos << "\n";
-	cout << "\n " << verdadeiroFalso << "\n";
+	cout << "\n " << verdadeiroFalso << "\n\n\n";
 	
+	system ("pause");
 	return 0;
 	
 }
