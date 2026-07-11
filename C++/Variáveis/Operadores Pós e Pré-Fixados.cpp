@@ -18,7 +18,7 @@ int main(){
 	y = x;
 	y *= 2;
 		
-	cout << "------------------------------------------------\n\n Número multiplicado por 2:\n\n " << y << "\n\n\n";
+	cout << "-------------------------------------------------\n\n Número multiplicado por 2:\n\n " << y << "\n\n\n";
 	
 	//Dividir o valor por 2:
 	y = x;
