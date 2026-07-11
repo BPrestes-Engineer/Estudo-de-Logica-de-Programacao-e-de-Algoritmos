@@ -38,7 +38,9 @@ int main(){
 		x -= 1;
 			cout << "\n\n Ex. 3: 'x -= 1'\n\n " << x;
 			
+			
 	cout << "\n\n\n\n ^U^\n\n\n\n";
+		
 		
 	system("pause");
 	return 0;

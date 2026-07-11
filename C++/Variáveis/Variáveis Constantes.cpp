@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Variáveis Constantes são definidas antes/fora da função main:
+//Variáveis Constantes são pré-definidas, não podendo receber outros valores pela função:
 
 #define name cout << "\nOlá, eu sou o BPrestes ^U^\n";
 #define pi 3.14159;

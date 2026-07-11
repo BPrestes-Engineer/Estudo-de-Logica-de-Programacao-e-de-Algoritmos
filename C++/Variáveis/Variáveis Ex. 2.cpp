@@ -11,7 +11,7 @@ int main(){
 	int idade;
 	string nome;
 	
-	cout << "\n\n Digite o seu nome: \n";
+	cout << "\n Digite o seu nome: \n";
 	cout << " ";
 	getline(cin, nome);
 	
