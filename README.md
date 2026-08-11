@@ -2,6 +2,7 @@
 
 Este repositório documenta minha jornada de aprendizado em **Algoritmos e Lógica de Programação**, iniciada com o uso do **VisualG (Portugol)** e baseada no curso de **210 horas** - "Lógica Programação VisualG, C++, Python, C#, Java + Projetos " - do professor Clevison Santos na Udemy.  
 
+
 **📚 Conteúdo do Curso 📚**
 O curso cobre uma ampla gama de tópicos e linguagens, incluindo:
 
@@ -16,16 +17,20 @@ O curso cobre uma ampla gama de tópicos e linguagens, incluindo:
 - **JavaScript**: Estruturas básicas, funções e Programação Orientada a Objetos;
 - **CSS e HTML**: Muita coisa, vou tankar listar não kakakakk. 😭🥀
 
+
 **Objetivos do Repositório:**
 - Consolidar fundamentos de lógica de programação;  
 - Praticar a tradução de raciocínio lógico em código;  
 - Documentar minha evolução em diferentes linguagens;  
 - Criar uma base sólida para projetos aplicados e oportunidades profissionais.
 
+
 **Próximos Passos:**
 - Migrar a Lógica para outras linguagens (C, JavaScript, TypeScript, etc.);  
 - Criar mais projetos aplicados com interface gráfica e banco de dados; 
 - Avançar nos estudos de Redes e Sistemas.
+
+
 
 **>> Observação <<**
 Este repositório é parte da minha jornada de aprendizado.  
