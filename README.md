@@ -10,7 +10,7 @@ O curso cobre uma ampla gama de tópicos e linguagens, incluindo:
 - **C**: Fundamentos da lógica de programação; (>> Curso Paralelo <<)
 - **C++**: Estruturas básicas, funções e Programação Orientada a Objetos;
 - **QT Creator**: Interface Gráfica;  
-- **Python**: PyCharm, classes, automação RPA com Pyautogui, Selenium, Pandas, Openpyxl, MongoDB, IA, Interface Gráfica e Jogos ;  
+- **Python**: PyCharm, classes, automação RPA com Pyautogui, Selenium, Pandas, Openpyxl, MongoDB, IA, Interface Gráfica e Jogos;  
 - **Java**: JKD e Eclipse, estruturas de controle, classes, arrays, matrizes, interface gráfica, projetos e jogos;  
 - **C#**: Fundamentos, POO e integração com banco de dados;  
 - **SQLite**: Integração com projetos reais;
